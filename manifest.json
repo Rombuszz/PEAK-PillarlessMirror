@@ -1,0 +1,9 @@
+{
+  "name": "PillarlessMirror",
+  "version_number": "1.1.2",
+  "website_url": "https://rombusz.dev/contacts/bug-report/?mod=pillarless-mirror",
+  "description": "Removes the center pillar that obstructs the airport mirror.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.75301"
+  ]
+}
